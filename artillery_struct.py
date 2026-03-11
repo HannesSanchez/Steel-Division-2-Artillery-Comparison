@@ -18,6 +18,8 @@ class Artillery:
     reload_time = 0
     damage = 0
     damage_radius = 0
+    suppression = 0
+    suppression_radius = 0
     min_range = 0
     max_range = 0
     min_range_dispersion = 0
@@ -29,8 +31,8 @@ class Artillery:
     artillery_type = ArtilleryType.TUBE
 
     def __init__(self, gun_name, example_gun, ammo_name, calibre, aim_time, reload_time, damage, damage_radius,
-                 min_range, max_range, min_range_dispersion, max_range_dispersion, shells_salvo, ammo_count,
-                 weapon_cost, supply_cost, artillery_type):
+                 suppression, suppression_radius, min_range, max_range, min_range_dispersion, max_range_dispersion,
+                 shells_salvo, ammo_count, weapon_cost, supply_cost, artillery_type):
         self.gun_name = gun_name
         self.example_gun = example_gun
         self.ammo_name = ammo_name
@@ -39,6 +41,8 @@ class Artillery:
         self.reload_time = reload_time
         self.damage = damage
         self.damage_radius = damage_radius
+        self.suppression = suppression
+        self.suppression_radius = suppression_radius
         self.min_range = min_range
         self.max_range = max_range
         self.min_range_dispersion = min_range_dispersion

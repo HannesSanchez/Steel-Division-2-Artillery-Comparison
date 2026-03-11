@@ -180,9 +180,12 @@ for art in artilleries:
             f"Aim time: {a.aim_time:.2f} s\n"
             f"Reload: {a.reload_time:.2f} s\n"
             f"Damage: {a.damage:.2f}\n"
-            f"Damage Radius: {a.damage_radius:.2f} m\n"
+            f"Damage radius: {a.damage_radius:.2f} m\n"
+            f"Suppression: {a.suppression:.2f}\n"
+            f"Suppression radius: {a.suppression_radius:.2f} m\n"
             # f"Ammo Count: {a.ammo_count}\n"
-            f"Supply Cost (Salvo): {a.supply_cost}"
+            f"Shells per salvo: {a.shells_salvo}\n"
+            f"Supply cost (salvo): {a.supply_cost}"
         )
 
 
