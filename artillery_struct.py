@@ -24,15 +24,18 @@ class Artillery:
     max_range = 0
     min_range_dispersion = 0
     max_range_dispersion = 0
-    shells_salvo = 0
+    projectiles_salvo = 0
     ammo_count = 0
     weapon_cost = 0
     supply_cost = 0
+    corrected_shot_aim_time_multiplier = 1.0
+    corrected_shot_dispersion_multiplier = 1.0
     artillery_type = ArtilleryType.TUBE
 
     def __init__(self, gun_name, example_gun, ammo_name, calibre, aim_time, reload_time, damage, damage_radius,
                  suppression, suppression_radius, min_range, max_range, min_range_dispersion, max_range_dispersion,
-                 shells_salvo, ammo_count, weapon_cost, supply_cost, artillery_type):
+                 projectiles_salvo, ammo_count, weapon_cost, supply_cost, corrected_shot_dispersion_multiplier,
+                 corrected_shot_aim_time_multiplier, artillery_type):
         self.gun_name = gun_name
         self.example_gun = example_gun
         self.ammo_name = ammo_name
@@ -47,10 +50,12 @@ class Artillery:
         self.max_range = max_range
         self.min_range_dispersion = min_range_dispersion
         self.max_range_dispersion = max_range_dispersion
-        self.shells_salvo = shells_salvo
+        self.projectiles_salvo = projectiles_salvo
         self.ammo_count = ammo_count
         self.weapon_cost = weapon_cost
         self.supply_cost = supply_cost
+        self.corrected_shot_aim_time_multiplier = corrected_shot_dispersion_multiplier
+        self.corrected_shot_dispersion_multiplier = corrected_shot_aim_time_multiplier
         self.artillery_type = artillery_type
 
     def dispersion(self, distance):

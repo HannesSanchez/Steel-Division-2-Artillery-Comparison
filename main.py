@@ -184,8 +184,10 @@ for art in artilleries:
             f"Suppression: {a.suppression:.2f}\n"
             f"Suppression radius: {a.suppression_radius:.2f} m\n"
             # f"Ammo Count: {a.ammo_count}\n"
-            f"Shells per salvo: {a.shells_salvo}\n"
-            f"Supply cost (salvo): {a.supply_cost}"
+            f"Projectiles per salvo: {a.projectiles_salvo}\n"
+            f"Supply cost (projectile): {a.supply_cost}\n"
+            f"Radio dispersion multiplier: {a.corrected_shot_aim_time_multiplier}\n"
+            f"Radio aim time multiplier: {a.corrected_shot_dispersion_multiplier}"
         )
 
 

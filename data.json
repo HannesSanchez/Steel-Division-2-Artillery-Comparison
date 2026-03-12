@@ -14,10 +14,12 @@
         "max_range": 540.0,
         "min_range_dispersion": 30.0,
         "max_range_dispersion": 50.0,
-        "shells_salvo": 6,
+        "projectiles_salvo": 6,
         "ammo_count": 60,
         "weapon_cost": 15,
-        "supply_cost": "300",
+        "supply_cost": 50,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "MORTAR"
     },
     {
@@ -35,10 +37,12 @@
         "max_range": 520.0,
         "min_range_dispersion": 30.0,
         "max_range_dispersion": 50.0,
-        "shells_salvo": 6,
+        "projectiles_salvo": 6,
         "ammo_count": 54,
         "weapon_cost": 15,
-        "supply_cost": "300",
+        "supply_cost": 50,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "MORTAR"
     },
     {
@@ -56,10 +60,12 @@
         "max_range": 540.0,
         "min_range_dispersion": 30.0,
         "max_range_dispersion": 50.0,
-        "shells_salvo": 6,
+        "projectiles_salvo": 6,
         "ammo_count": 54,
         "weapon_cost": 15,
-        "supply_cost": "300",
+        "supply_cost": 50,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "MORTAR"
     },
     {
@@ -77,10 +83,12 @@
         "max_range": 540.0,
         "min_range_dispersion": 30.0,
         "max_range_dispersion": 50.0,
-        "shells_salvo": 6,
+        "projectiles_salvo": 6,
         "ammo_count": 54,
         "weapon_cost": 15,
-        "supply_cost": "300",
+        "supply_cost": 50,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -98,10 +106,12 @@
         "max_range": 800.0,
         "min_range_dispersion": 30.0,
         "max_range_dispersion": 50.0,
-        "shells_salvo": 6,
+        "projectiles_salvo": 6,
         "ammo_count": 54,
         "weapon_cost": 20,
-        "supply_cost": "300",
+        "supply_cost": 50,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "MORTAR"
     },
     {
@@ -119,10 +129,12 @@
         "max_range": 1800.0,
         "min_range_dispersion": 40.4,
         "max_range_dispersion": 90.0,
-        "shells_salvo": 5,
+        "projectiles_salvo": 5,
         "ammo_count": 40,
         "weapon_cost": 40,
-        "supply_cost": "350",
+        "supply_cost": 70,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -140,10 +152,12 @@
         "max_range": 1800.0,
         "min_range_dispersion": 40.4,
         "max_range_dispersion": 90.0,
-        "shells_salvo": 5,
+        "projectiles_salvo": 5,
         "ammo_count": 40,
         "weapon_cost": 40,
-        "supply_cost": "350",
+        "supply_cost": 70,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -161,10 +175,12 @@
         "max_range": 3000.0,
         "min_range_dispersion": 50.2,
         "max_range_dispersion": 150.0,
-        "shells_salvo": 5,
+        "projectiles_salvo": 5,
         "ammo_count": 25,
         "weapon_cost": 60,
-        "supply_cost": "400",
+        "supply_cost": 80,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -182,10 +198,12 @@
         "max_range": 1800.0,
         "min_range_dispersion": 40.4,
         "max_range_dispersion": 90.0,
-        "shells_salvo": 5,
+        "projectiles_salvo": 5,
         "ammo_count": 25,
         "weapon_cost": 45,
-        "supply_cost": "400",
+        "supply_cost": 80,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -203,10 +221,12 @@
         "max_range": 3000.0,
         "min_range_dispersion": 50.2,
         "max_range_dispersion": 150.0,
-        "shells_salvo": 5,
+        "projectiles_salvo": 5,
         "ammo_count": 25,
         "weapon_cost": 60,
-        "supply_cost": "400",
+        "supply_cost": 80,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -224,10 +244,12 @@
         "max_range": 3000.0,
         "min_range_dispersion": 50.2,
         "max_range_dispersion": 150.0,
-        "shells_salvo": 5,
+        "projectiles_salvo": 5,
         "ammo_count": 25,
         "weapon_cost": 60,
-        "supply_cost": "400",
+        "supply_cost": 80,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -245,10 +267,12 @@
         "max_range": 3000.0,
         "min_range_dispersion": 50.2,
         "max_range_dispersion": 150.0,
-        "shells_salvo": 5,
+        "projectiles_salvo": 5,
         "ammo_count": 25,
         "weapon_cost": 60,
-        "supply_cost": "400",
+        "supply_cost": 80,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -266,10 +290,12 @@
         "max_range": 3000.0,
         "min_range_dispersion": 50.2,
         "max_range_dispersion": 150.0,
-        "shells_salvo": 5,
+        "projectiles_salvo": 5,
         "ammo_count": 25,
         "weapon_cost": 60,
-        "supply_cost": "400",
+        "supply_cost": 80,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -287,10 +313,12 @@
         "max_range": 3000.0,
         "min_range_dispersion": 50.2,
         "max_range_dispersion": 150.0,
-        "shells_salvo": 5,
+        "projectiles_salvo": 5,
         "ammo_count": 25,
         "weapon_cost": 65,
-        "supply_cost": "400",
+        "supply_cost": 80,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -308,10 +336,12 @@
         "max_range": 3000.0,
         "min_range_dispersion": 100.0,
         "max_range_dispersion": 200.0,
-        "shells_salvo": 16,
+        "projectiles_salvo": 16,
         "ammo_count": 64,
         "weapon_cost": 120,
-        "supply_cost": "2000",
+        "supply_cost": 125,
+        "corrected_shot_aim_time_multiplier": 1.0,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -329,10 +359,12 @@
         "max_range": 3000.0,
         "min_range_dispersion": 50.2,
         "max_range_dispersion": 150.0,
-        "shells_salvo": 5,
+        "projectiles_salvo": 5,
         "ammo_count": 25,
         "weapon_cost": 60,
-        "supply_cost": "400",
+        "supply_cost": 80,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -350,10 +382,12 @@
         "max_range": 4400.0,
         "min_range_dispersion": 62.6,
         "max_range_dispersion": 293.2,
-        "shells_salvo": 5,
+        "projectiles_salvo": 5,
         "ammo_count": 30,
         "weapon_cost": 70,
-        "supply_cost": "500",
+        "supply_cost": 100,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -371,10 +405,12 @@
         "max_range": 4400.0,
         "min_range_dispersion": 62.6,
         "max_range_dispersion": 293.2,
-        "shells_salvo": 5,
+        "projectiles_salvo": 5,
         "ammo_count": 30,
         "weapon_cost": 85,
-        "supply_cost": "500",
+        "supply_cost": 100,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -392,10 +428,12 @@
         "max_range": 6300.0,
         "min_range_dispersion": 62.6,
         "max_range_dispersion": 420.0,
-        "shells_salvo": 5,
+        "projectiles_salvo": 5,
         "ammo_count": 30,
         "weapon_cost": 75,
-        "supply_cost": "500",
+        "supply_cost": 100,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -413,10 +451,12 @@
         "max_range": 6000.0,
         "min_range_dispersion": 68.4,
         "max_range_dispersion": 400.0,
-        "shells_salvo": 5,
+        "projectiles_salvo": 5,
         "ammo_count": 30,
         "weapon_cost": 80,
-        "supply_cost": "600",
+        "supply_cost": 120,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -434,10 +474,12 @@
         "max_range": 6000.0,
         "min_range_dispersion": 68.4,
         "max_range_dispersion": 400.0,
-        "shells_salvo": 5,
+        "projectiles_salvo": 5,
         "ammo_count": 30,
         "weapon_cost": 80,
-        "supply_cost": "600",
+        "supply_cost": 120,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -455,10 +497,12 @@
         "max_range": 5300.0,
         "min_range_dispersion": 85.2,
         "max_range_dispersion": 353.2,
-        "shells_salvo": 3,
+        "projectiles_salvo": 3,
         "ammo_count": 18,
         "weapon_cost": 85,
-        "supply_cost": "600",
+        "supply_cost": 200,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "MORTAR"
     },
     {
@@ -476,10 +520,12 @@
         "max_range": 8125.0,
         "min_range_dispersion": 47.8,
         "max_range_dispersion": 406.2,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 48,
         "weapon_cost": 40,
-        "supply_cost": "75",
+        "supply_cost": 75,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -497,10 +543,12 @@
         "max_range": 8700.0,
         "min_range_dispersion": 47.8,
         "max_range_dispersion": 435.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 45,
         "weapon_cost": 50,
-        "supply_cost": "75",
+        "supply_cost": 75,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -518,10 +566,12 @@
         "max_range": 9425.0,
         "min_range_dispersion": 47.8,
         "max_range_dispersion": 471.2,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 48,
         "weapon_cost": 40,
-        "supply_cost": "75",
+        "supply_cost": 75,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -539,10 +589,12 @@
         "max_range": 9425.0,
         "min_range_dispersion": 47.8,
         "max_range_dispersion": 471.2,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 60,
         "weapon_cost": 0,
-        "supply_cost": "75",
+        "supply_cost": 75,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -560,10 +612,12 @@
         "max_range": 10100.0,
         "min_range_dispersion": 47.8,
         "max_range_dispersion": 505.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 20,
         "weapon_cost": 45,
-        "supply_cost": "75",
+        "supply_cost": 75,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -581,10 +635,12 @@
         "max_range": 10625.0,
         "min_range_dispersion": 47.8,
         "max_range_dispersion": 531.2,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 50,
         "weapon_cost": 45,
-        "supply_cost": "75",
+        "supply_cost": 75,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -602,10 +658,12 @@
         "max_range": 11500.0,
         "min_range_dispersion": 47.8,
         "max_range_dispersion": 575.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 40,
         "weapon_cost": 40,
-        "supply_cost": "75",
+        "supply_cost": 75,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -623,10 +681,12 @@
         "max_range": 11500.0,
         "min_range_dispersion": 47.8,
         "max_range_dispersion": 575.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 30,
         "weapon_cost": 50,
-        "supply_cost": "75",
+        "supply_cost": 75,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -644,10 +704,12 @@
         "max_range": 11800.0,
         "min_range_dispersion": 48.4,
         "max_range_dispersion": 590.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 40,
         "weapon_cost": 80,
-        "supply_cost": "76",
+        "supply_cost": 76,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -665,10 +727,12 @@
         "max_range": 12500.0,
         "min_range_dispersion": 47.8,
         "max_range_dispersion": 625.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 55,
         "weapon_cost": 60,
-        "supply_cost": "75",
+        "supply_cost": 75,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -686,10 +750,12 @@
         "max_range": 13300.0,
         "min_range_dispersion": 48.4,
         "max_range_dispersion": 665.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 30,
         "weapon_cost": 65,
-        "supply_cost": "76",
+        "supply_cost": 76,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -707,10 +773,12 @@
         "max_range": 13300.0,
         "min_range_dispersion": 48.4,
         "max_range_dispersion": 665.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 30,
         "weapon_cost": 60,
-        "supply_cost": "76",
+        "supply_cost": 76,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -728,10 +796,12 @@
         "max_range": 13300.0,
         "min_range_dispersion": 48.4,
         "max_range_dispersion": 665.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 18,
         "weapon_cost": 60,
-        "supply_cost": "76",
+        "supply_cost": 76,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -749,10 +819,12 @@
         "max_range": 16875.0,
         "min_range_dispersion": 48.4,
         "max_range_dispersion": 843.6,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 45,
         "weapon_cost": 55,
-        "supply_cost": "76",
+        "supply_cost": 76,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -770,10 +842,12 @@
         "max_range": 16875.0,
         "min_range_dispersion": 48.4,
         "max_range_dispersion": 843.6,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 15,
         "weapon_cost": 60,
-        "supply_cost": "76",
+        "supply_cost": 76,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -791,10 +865,12 @@
         "max_range": 8750.0,
         "min_range_dispersion": 47.8,
         "max_range_dispersion": 437.4,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 40,
         "weapon_cost": 40,
-        "supply_cost": "76",
+        "supply_cost": 76,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -812,10 +888,12 @@
         "max_range": 16875.0,
         "min_range_dispersion": 47.8,
         "max_range_dispersion": 843.6,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 48,
         "weapon_cost": 45,
-        "supply_cost": "76",
+        "supply_cost": 76,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -833,10 +911,12 @@
         "max_range": 12250.0,
         "min_range_dispersion": 50.2,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 35,
         "weapon_cost": 50,
-        "supply_cost": "88",
+        "supply_cost": 88,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -854,10 +934,12 @@
         "max_range": 12250.0,
         "min_range_dispersion": 54.0,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 10,
         "ammo_count": 40,
         "weapon_cost": 75,
-        "supply_cost": "88",
+        "supply_cost": 88,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -875,10 +957,12 @@
         "max_range": 8490.0,
         "min_range_dispersion": 59.6,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 6,
         "ammo_count": 30,
         "weapon_cost": 70,
-        "supply_cost": "100",
+        "supply_cost": 100,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -896,10 +980,12 @@
         "max_range": 8700.0,
         "min_range_dispersion": 59.6,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 35,
         "weapon_cost": 85,
-        "supply_cost": "100",
+        "supply_cost": 100,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -917,10 +1003,12 @@
         "max_range": 9970.0,
         "min_range_dispersion": 59.6,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 50,
         "weapon_cost": 50,
-        "supply_cost": "100",
+        "supply_cost": 100,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -938,10 +1026,12 @@
         "max_range": 13000.0,
         "min_range_dispersion": 59.6,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 40,
         "weapon_cost": 70,
-        "supply_cost": "100",
+        "supply_cost": 100,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -959,10 +1049,12 @@
         "max_range": 21250.0,
         "min_range_dispersion": 59.6,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 40,
         "weapon_cost": 50,
-        "supply_cost": "100",
+        "supply_cost": 100,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -980,10 +1072,12 @@
         "max_range": 25000.0,
         "min_range_dispersion": 59.6,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 20,
         "weapon_cost": 95,
-        "supply_cost": "100",
+        "supply_cost": 100,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1001,10 +1095,12 @@
         "max_range": 9225.0,
         "min_range_dispersion": 61.8,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 50,
         "weapon_cost": 50,
-        "supply_cost": "105",
+        "supply_cost": 105,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1022,10 +1118,12 @@
         "max_range": 11400.0,
         "min_range_dispersion": 61.8,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 40,
         "weapon_cost": 75,
-        "supply_cost": "105",
+        "supply_cost": 105,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1043,10 +1141,12 @@
         "max_range": 15000.0,
         "min_range_dispersion": 61.8,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 30,
         "weapon_cost": 80,
-        "supply_cost": "105",
+        "supply_cost": 105,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1064,10 +1164,12 @@
         "max_range": 15625.0,
         "min_range_dispersion": 61.8,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 45,
         "weapon_cost": 70,
-        "supply_cost": "105",
+        "supply_cost": 105,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1085,10 +1187,12 @@
         "max_range": 15625.0,
         "min_range_dispersion": 61.8,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 30,
         "weapon_cost": 50,
-        "supply_cost": "105",
+        "supply_cost": 105,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1106,10 +1210,12 @@
         "max_range": 21250.0,
         "min_range_dispersion": 59.6,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 40,
         "weapon_cost": 75,
-        "supply_cost": "100",
+        "supply_cost": 100,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1127,10 +1233,12 @@
         "max_range": 22500.0,
         "min_range_dispersion": 61.8,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 30,
         "weapon_cost": 75,
-        "supply_cost": "105",
+        "supply_cost": 105,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1148,10 +1256,12 @@
         "max_range": 23750.0,
         "min_range_dispersion": 59.6,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 46,
         "weapon_cost": 80,
-        "supply_cost": "100",
+        "supply_cost": 100,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1169,10 +1279,12 @@
         "max_range": 18125.0,
         "min_range_dispersion": 104.8,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 4,
         "ammo_count": 40,
         "weapon_cost": 80,
-        "supply_cost": "210",
+        "supply_cost": 210,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1190,10 +1302,12 @@
         "max_range": 4000.0,
         "min_range_dispersion": 69.2,
         "max_range_dispersion": 200.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 40,
         "weapon_cost": 60,
-        "supply_cost": "114",
+        "supply_cost": 114,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1211,10 +1325,12 @@
         "max_range": 18750.0,
         "min_range_dispersion": 69.2,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 40,
         "weapon_cost": 80,
-        "supply_cost": "114",
+        "supply_cost": 114,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1232,10 +1348,12 @@
         "max_range": 15000.0,
         "min_range_dispersion": 69.2,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 40,
         "weapon_cost": 75,
-        "supply_cost": "122",
+        "supply_cost": 122,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1253,10 +1371,12 @@
         "max_range": 25000.0,
         "min_range_dispersion": 69.2,
         "max_range_dispersion": 600.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 8,
         "ammo_count": 36,
         "weapon_cost": 95,
-        "supply_cost": "122",
+        "supply_cost": 122,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1274,10 +1394,12 @@
         "max_range": 18700.0,
         "min_range_dispersion": 83.2,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 6,
         "ammo_count": 45,
         "weapon_cost": 120,
-        "supply_cost": "140",
+        "supply_cost": 140,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1295,10 +1417,12 @@
         "max_range": 16000.0,
         "min_range_dispersion": 81.0,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 6,
         "ammo_count": 35,
         "weapon_cost": 110,
-        "supply_cost": "150",
+        "supply_cost": 150,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1316,10 +1440,12 @@
         "max_range": 18125.0,
         "min_range_dispersion": 81.0,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 6,
         "ammo_count": 40,
         "weapon_cost": 130,
-        "supply_cost": "150",
+        "supply_cost": 150,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1337,10 +1463,12 @@
         "max_range": 18750.0,
         "min_range_dispersion": 81.0,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 6,
         "ammo_count": 30,
         "weapon_cost": 120,
-        "supply_cost": "150",
+        "supply_cost": 150,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1358,10 +1486,12 @@
         "max_range": 8800.0,
         "min_range_dispersion": 81.0,
         "max_range_dispersion": 271.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 6,
         "ammo_count": 36,
         "weapon_cost": 130,
-        "supply_cost": "75",
+        "supply_cost": 75,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1379,10 +1509,12 @@
         "max_range": 13325.0,
         "min_range_dispersion": 81.0,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 6,
         "ammo_count": 18,
         "weapon_cost": 125,
-        "supply_cost": "150",
+        "supply_cost": 150,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1400,10 +1532,12 @@
         "max_range": 15000.0,
         "min_range_dispersion": 83.2,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 5,
         "ammo_count": 40,
         "weapon_cost": 115,
-        "supply_cost": "155",
+        "supply_cost": 155,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1421,10 +1555,12 @@
         "max_range": 16250.0,
         "min_range_dispersion": 81.0,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 6,
         "ammo_count": 40,
         "weapon_cost": 120,
-        "supply_cost": "150",
+        "supply_cost": 150,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1442,10 +1578,12 @@
         "max_range": 12400.0,
         "min_range_dispersion": 81.8,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 6,
         "ammo_count": 40,
         "weapon_cost": 110,
-        "supply_cost": "150",
+        "supply_cost": 150,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1463,10 +1601,12 @@
         "max_range": 17230.0,
         "min_range_dispersion": 81.8,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 6,
         "ammo_count": 30,
         "weapon_cost": 120,
-        "supply_cost": "150",
+        "supply_cost": 150,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1484,10 +1624,12 @@
         "max_range": 13750.0,
         "min_range_dispersion": 83.2,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 6,
         "ammo_count": 40,
         "weapon_cost": 110,
-        "supply_cost": "155",
+        "supply_cost": 155,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1505,10 +1647,12 @@
         "max_range": 16250.0,
         "min_range_dispersion": 83.2,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 6,
         "ammo_count": 40,
         "weapon_cost": 120,
-        "supply_cost": "150",
+        "supply_cost": 150,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1526,10 +1670,12 @@
         "max_range": 19500.0,
         "min_range_dispersion": 83.2,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 5,
         "ammo_count": 40,
         "weapon_cost": 125,
-        "supply_cost": "155",
+        "supply_cost": 155,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1547,10 +1693,12 @@
         "max_range": 19500.0,
         "min_range_dispersion": 83.2,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 5,
         "ammo_count": 10,
         "weapon_cost": 125,
-        "supply_cost": "155",
+        "supply_cost": 155,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1568,10 +1716,12 @@
         "max_range": 27500.0,
         "min_range_dispersion": 83.2,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 6,
         "ammo_count": 40,
         "weapon_cost": 130,
-        "supply_cost": "155",
+        "supply_cost": 155,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1589,10 +1739,12 @@
         "max_range": 29500.0,
         "min_range_dispersion": 89.2,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 6,
         "ammo_count": 36,
         "weapon_cost": 140,
-        "supply_cost": "155",
+        "supply_cost": 155,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1610,10 +1762,12 @@
         "max_range": 18750.0,
         "min_range_dispersion": 93.2,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 4,
         "ammo_count": 12,
         "weapon_cost": 130,
-        "supply_cost": "203",
+        "supply_cost": 203,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1631,10 +1785,12 @@
         "max_range": 12500.0,
         "min_range_dispersion": 102.0,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 4,
         "ammo_count": 18,
         "weapon_cost": 130,
-        "supply_cost": "203",
+        "supply_cost": 203,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1652,10 +1808,12 @@
         "max_range": 22500.0,
         "min_range_dispersion": 102.0,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 4,
         "ammo_count": 18,
         "weapon_cost": 135,
-        "supply_cost": "203",
+        "supply_cost": 203,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1673,10 +1831,12 @@
         "max_range": 25000.0,
         "min_range_dispersion": 102.0,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 4,
         "ammo_count": 20,
         "weapon_cost": 150,
-        "supply_cost": "203",
+        "supply_cost": 203,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1694,10 +1854,12 @@
         "max_range": 18125.0,
         "min_range_dispersion": 104.8,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 4,
         "ammo_count": 40,
         "weapon_cost": 140,
-        "supply_cost": "210",
+        "supply_cost": 210,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1715,10 +1877,12 @@
         "max_range": 9970.0,
         "min_range_dispersion": 108.4,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 4,
         "ammo_count": 18,
         "weapon_cost": 130,
-        "supply_cost": "220",
+        "supply_cost": 220,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1736,10 +1900,12 @@
         "max_range": 27500.0,
         "min_range_dispersion": 108.4,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 4,
         "ammo_count": 18,
         "weapon_cost": 140,
-        "supply_cost": "220",
+        "supply_cost": 220,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1757,10 +1923,12 @@
         "max_range": 12500.0,
         "min_range_dispersion": 130.4,
         "max_range_dispersion": 500.0,
-        "shells_salvo": 1,
+        "projectiles_salvo": 4,
         "ammo_count": 18,
         "weapon_cost": 140,
-        "supply_cost": "280",
+        "supply_cost": 280,
+        "corrected_shot_aim_time_multiplier": 0.5,
+        "corrected_shot_dispersion_multiplier": 0.66,
         "artillery_type": "ARTI"
     },
     {
@@ -1778,10 +1946,12 @@
         "max_range": 5300.0,
         "min_range_dispersion": 160.0,
         "max_range_dispersion": 260.0,
-        "shells_salvo": 24,
+        "projectiles_salvo": 24,
         "ammo_count": 24,
         "weapon_cost": 55,
-        "supply_cost": "3280",
+        "supply_cost": 136,
+        "corrected_shot_aim_time_multiplier": 1.0,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "ROCKET"
     },
     {
@@ -1799,10 +1969,12 @@
         "max_range": 5300.0,
         "min_range_dispersion": 160.0,
         "max_range_dispersion": 260.0,
-        "shells_salvo": 8,
+        "projectiles_salvo": 8,
         "ammo_count": 8,
         "weapon_cost": 40,
-        "supply_cost": "1100",
+        "supply_cost": 137,
+        "corrected_shot_aim_time_multiplier": 1.0,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "ROCKET"
     },
     {
@@ -1820,10 +1992,12 @@
         "max_range": 5300.0,
         "min_range_dispersion": 180.0,
         "max_range_dispersion": 280.0,
-        "shells_salvo": 48,
+        "projectiles_salvo": 48,
         "ammo_count": 96,
         "weapon_cost": 80,
-        "supply_cost": "6560",
+        "supply_cost": 136,
+        "corrected_shot_aim_time_multiplier": 1.0,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "ROCKET"
     },
     {
@@ -1841,10 +2015,12 @@
         "max_range": 4200.0,
         "min_range_dispersion": 160.0,
         "max_range_dispersion": 260.0,
-        "shells_salvo": 30,
+        "projectiles_salvo": 30,
         "ammo_count": 1500,
         "weapon_cost": 130,
-        "supply_cost": "5700",
+        "supply_cost": 190,
+        "corrected_shot_aim_time_multiplier": 1.0,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "ROCKET"
     },
     {
@@ -1862,10 +2038,12 @@
         "max_range": 4200.0,
         "min_range_dispersion": 120.0,
         "max_range_dispersion": 220.0,
-        "shells_salvo": 8,
+        "projectiles_salvo": 8,
         "ammo_count": 16,
         "weapon_cost": 80,
-        "supply_cost": "1520",
+        "supply_cost": 190,
+        "corrected_shot_aim_time_multiplier": 1.0,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "ROCKET"
     },
     {
@@ -1883,10 +2061,12 @@
         "max_range": 7000.0,
         "min_range_dispersion": 140.0,
         "max_range_dispersion": 240.0,
-        "shells_salvo": 16,
+        "projectiles_salvo": 16,
         "ammo_count": 16,
         "weapon_cost": 80,
-        "supply_cost": "3520",
+        "supply_cost": 220,
+        "corrected_shot_aim_time_multiplier": 1.0,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "ROCKET"
     },
     {
@@ -1904,10 +2084,12 @@
         "max_range": 7000.0,
         "min_range_dispersion": 100.0,
         "max_range_dispersion": 200.0,
-        "shells_salvo": 6,
+        "projectiles_salvo": 6,
         "ammo_count": 6,
         "weapon_cost": 60,
-        "supply_cost": "1500",
+        "supply_cost": 250,
+        "corrected_shot_aim_time_multiplier": 1.0,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "ROCKET"
     },
     {
@@ -1925,10 +2107,12 @@
         "max_range": 7000.0,
         "min_range_dispersion": 140.0,
         "max_range_dispersion": 240.0,
-        "shells_salvo": 10,
+        "projectiles_salvo": 10,
         "ammo_count": 20,
         "weapon_cost": 100,
-        "supply_cost": "2500",
+        "supply_cost": 250,
+        "corrected_shot_aim_time_multiplier": 1.0,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "ROCKET"
     },
     {
@@ -1946,10 +2130,12 @@
         "max_range": 7000.0,
         "min_range_dispersion": 100.0,
         "max_range_dispersion": 200.0,
-        "shells_salvo": 5,
+        "projectiles_salvo": 5,
         "ammo_count": 5,
         "weapon_cost": 85,
-        "supply_cost": "1500",
+        "supply_cost": 300,
+        "corrected_shot_aim_time_multiplier": 1.0,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "ROCKET"
     },
     {
@@ -1967,10 +2153,12 @@
         "max_range": 2200.0,
         "min_range_dispersion": 80.0,
         "max_range_dispersion": 180.0,
-        "shells_salvo": 6,
+        "projectiles_salvo": 6,
         "ammo_count": 6,
         "weapon_cost": 125,
-        "supply_cost": "2800",
+        "supply_cost": 466,
+        "corrected_shot_aim_time_multiplier": 1.0,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "ROCKET"
     },
     {
@@ -1988,10 +2176,12 @@
         "max_range": 2200.0,
         "min_range_dispersion": 80.0,
         "max_range_dispersion": 180.0,
-        "shells_salvo": 4,
+        "projectiles_salvo": 4,
         "ammo_count": 4,
         "weapon_cost": 100,
-        "supply_cost": "1860",
+        "supply_cost": 465,
+        "corrected_shot_aim_time_multiplier": 1.0,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "ROCKET"
     },
     {
@@ -2009,10 +2199,12 @@
         "max_range": 2200.0,
         "min_range_dispersion": 80.0,
         "max_range_dispersion": 180.0,
-        "shells_salvo": 6,
+        "projectiles_salvo": 6,
         "ammo_count": 12,
         "weapon_cost": 140,
-        "supply_cost": "2800",
+        "supply_cost": 466,
+        "corrected_shot_aim_time_multiplier": 1.0,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "ROCKET"
     },
     {
@@ -2030,10 +2222,12 @@
         "max_range": 4550.0,
         "min_range_dispersion": 100.0,
         "max_range_dispersion": 200.0,
-        "shells_salvo": 6,
+        "projectiles_salvo": 6,
         "ammo_count": 6,
         "weapon_cost": 115,
-        "supply_cost": "3000",
+        "supply_cost": 500,
+        "corrected_shot_aim_time_multiplier": 1.0,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "ROCKET"
     },
     {
@@ -2051,10 +2245,12 @@
         "max_range": 4550.0,
         "min_range_dispersion": 140.0,
         "max_range_dispersion": 240.0,
-        "shells_salvo": 12,
+        "projectiles_salvo": 12,
         "ammo_count": 12,
         "weapon_cost": 135,
-        "supply_cost": "6000",
+        "supply_cost": 500,
+        "corrected_shot_aim_time_multiplier": 1.0,
+        "corrected_shot_dispersion_multiplier": 1.0,
         "artillery_type": "ROCKET"
     }
 ]
